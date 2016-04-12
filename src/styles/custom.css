@@ -1,0 +1,23 @@
+.kotl {
+  margin-bottom: auto;
+  margin-top: 50px;
+  width: 20%;
+  weight: 15%;
+  align-items: center;
+  border-radius: 50%;
+  border: 5px solid;
+  border-color: #EEEEEE;
+}
+
+.open {
+  font-size: 3.5em;
+  font-family: monospace;
+  color: #EEEEFF;
+}
+
+.box {
+  border: 5px solid;
+  border-color: #EEEEEE;
+  width: 30%;
+  height: 30%;
+}
