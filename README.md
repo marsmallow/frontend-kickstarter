@@ -4,13 +4,12 @@
 
 ## Struktur Projek
 
-    |--build/  //Dimana semua hasil production dileakkan disini
+    |--build/  //Dimana semua hasil production diletakkan disini
     |   |-- scripts/
     |   |-- images/
     |   |-- styles/
     |   index.html
     |   
-    |
     |--src/  //Development disini gan
     |   |-- scripts/
     |   |-- images/
