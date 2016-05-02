@@ -2,9 +2,9 @@
 
 ![GitHub Logo](src/images/logo.jpg)
 
-## Struktur Projek
+## Struktur
 
-    |--build/  //Dimana semua hasil production diletakkan disini
+    |--build/  //Semua hasil production diletakkan disini
     |   |-- scripts/
     |   |-- images/
     |   |-- styles/
@@ -16,7 +16,7 @@
     |   |-- styles/
     |   index.html
     |
-    |-- gulpfile.js //Ini file gulpnya
+    |-- gulpfile.coffee //Ini file gulpnya
     |-- package.json
     |-- README.md
 
@@ -36,7 +36,7 @@
 
 ## Jalankan
 Masuk ke direktori project
-update repo melalui command
+update dependency melalui command
 ``
 npm install
 ``
