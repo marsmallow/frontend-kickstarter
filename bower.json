@@ -1,0 +1,27 @@
+{
+  "name": "frontend-starter-kit",
+  "description": "Ez build your fronted",
+  "main": "index.js",
+  "authors": [
+    "Ivan Fadila Putra"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Design",
+    "Frontend",
+    "CSS",
+    "HTML"
+  ],
+  "homepage": "https://github.com/marsmallow/frontend-kickstarter",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
